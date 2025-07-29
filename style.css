@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
+/* Wanted to add a new font for the stats vvv*/
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double:wght@100..900&family=Funnel+Sans:ital,wght@0,300..800;1,300..800&family=Orbitron:wght@400..900&family=Press+Start+2P&family=Questrial&display=swap');
 
 body {
     font-family: 'Cabin';
@@ -21,6 +23,16 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+    /*Added this font I imported from google for Step 2*/
+    font-family: "Bitcount Prop Double", system-ui;
+    font-weight: 350;
+}
+
+/* sTep 4*/
+.stats-container:hover{
+    background-color: lightblue;
+    box-shadow: 0 0 30px;
 }
 
 .stats-card {
@@ -28,7 +40,8 @@ body {
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
-    width: 100%;
+    /* Changed width cause the 100% didn't look as nice on my screen =( */
+    width: 75%;
     text-align: center;
 }
 
