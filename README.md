@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
 * [X] Change font to be more aesthetically pleasing 
 
 ## Video Walkthrough
@@ -25,12 +25,9 @@ The following **optional** features are implemented:
 
 <img src='/SheenaWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Video if GIF doesn't work --> https://www.loom.com/share/ca28e8d8509f44a982d54b764f1ef998?sid=6f0edc6d-35e0-45e2-ae2e-1387c04e5eb7
+GIF created with ScreenToGif ~ https://www.screentogif.com/
+
 
 ## Notes
 
