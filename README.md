@@ -24,8 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/ca28e8d8509f44a982d54b764f1ef998?sid=112e4fb9-5e92-4179-8a26-a3b859ac23d7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='' width='' alt='Video Walkthrough' />
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ca28e8d8509f44a982d54b764f1ef998?sid=f1256d5e-d0f1-41ed-aecc-7f62fbe69048" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
