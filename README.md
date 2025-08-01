@@ -22,9 +22,11 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
 
+<<<<<<< HEAD
 <img src='/SheenaWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+=======
+>>>>>>> fb3e96851ef57a966452e85d9c3fccc8ff795425
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
