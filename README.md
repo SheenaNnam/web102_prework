@@ -2,7 +2,7 @@
 
 Submitted by: Sheena Nnam
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sheena's Awesome Site is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 5 hours spent in total
 
