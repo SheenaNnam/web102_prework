@@ -23,9 +23,12 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+<video width="320" height="240" controls>
+  <source src="https://www.loom.com/share/ca28e8d8509f44a982d54b764f1ef998?sid=f9d96e27-718a-4457-b2b7-7ee127c5411a" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-<img src='' width='' alt='Video Walkthrough' />
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ca28e8d8509f44a982d54b764f1ef998?sid=f1256d5e-d0f1-41ed-aecc-7f62fbe69048" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
