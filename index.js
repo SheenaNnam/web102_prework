@@ -34,7 +34,7 @@ function addGamesToPage(games) {
         currDiv.innerHTML = `<h3> ${games[i].name} </h3>.
         <img class= "game-img" src="${games[i].img}" /> 
         It has pledged $${games[i].pledged} with ${games[i].backers} backers. 
-        (Woah! Thanks for the supprt :D)! 
+        (Woah! Thanks for the support :D) 
         `;
         document.getElementById("games-container").append(currDiv);
     }
@@ -190,8 +190,29 @@ const sortedGames =  GAMES_JSON.sort( (item1, item2) => {
     return item2.pledged - item1.pledged;
 });
 
-// use destructuring and the spread operator to grab the first and second games
+// use destructuring and the spread operator to grab the first and second games'
+
+let topGame = sortedGames[0]
+let nextGame = sortedGames[1]
+
+const theGames = [topGame, nextGame, ...sortedGames]
 
 // create a new element to hold the name of the top pledge game, then append it to the correct element
+const { name : topName, description: topDescription} = topGame
+const { name : nextName, description: nextDescription} = nextGame
+
+let topFundedPara = document.createElement("p")
+topFundedPara.innerHTML = topName
+let topFundedDesc = document.createElement("p")
+topFundedDesc.innerHTML = topDescription
+firstGameContainer.append(topFundedPara)
+firstGameContainer.append(topFundedDesc)
 
 // do the same for the runner up item
+
+let nextFundedPara = document.createElement("p")
+nextFundedPara.innerHTML = nextName
+let nextFundedDesc = document.createElement("p")
+nextFundedDesc.innerHTML = nextDescription
+secondGameContainer.append(nextFundedPara)
+secondGameContainer.append(nextFundedDesc)
